@@ -288,7 +288,7 @@ export default function KMapPage() {
         {/* Footnote */}        
       </div>
       <br /><br /><br />
-       <footer className="fixed bottom-0 left-0 w-full py-3 text-center text-sm text-neutral-500 bg-neutral-950 border-t border-neutral-800">
+       <footer className="fixed bottom-0 left-0 w-full py-3 text-center text-sm text-neutral-500 bg-neutral-800 border-t border-neutral-800">
         <div>Karnaugh Map Solver</div>
         <div className="flex justify-center items-center">
           <FaRegCopyright className="mr-1" />
