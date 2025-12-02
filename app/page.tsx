@@ -131,7 +131,7 @@ export default function KMapPage() {
         </div>
 
         {/* Card */}
-        <div className="rounded-2xl border border-s-blue-300 bg-neutral-900/60 p-6 shadow-lg shadow-black/30">
+        <div className="rounded-xl border border-t-blue-300 border-s-green-300 bg-neutral-900/60 p-6 shadow-lg shadow-black/30">
           <form onSubmit={submit} className="space-y-5">
             {/* Number of Inputs (Dropdown) */}
             <div>
